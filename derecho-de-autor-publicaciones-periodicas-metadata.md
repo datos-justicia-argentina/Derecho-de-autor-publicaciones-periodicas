@@ -3,7 +3,7 @@ Derecho de Autor. Publicaciones periódicas
 
 En este conjunto de datos se identifican las publicaciones que se editan en fascículos, numeradas consecutivamente y organizadas para su continuación indefinida; contienen información de diversos temas ordenados según una estructura determinada.
 
-<http://datos.jus.gob.ar/dataset/derecho-de-autor->publicaciones-periodicas
+<http://datos.jus.gob.ar/dataset/derecho-de-autor-publicaciones-periodicas>
 
 Características
 ---------------
