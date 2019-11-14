@@ -8,7 +8,7 @@ En este conjunto de datos se identifican las publicaciones que se editan en fasc
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 16/05/2019
 
 -   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción, publicaciones periódicas
 
