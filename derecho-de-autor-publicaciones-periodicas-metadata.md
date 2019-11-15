@@ -1,4 +1,4 @@
-Derecho de Autor. Publicaciones periódicas
+Derecho de autor. Publicaciones periódicas
 ==========================================
 
 En este conjunto de datos se identifican las publicaciones que se editan en fascículos, numeradas consecutivamente y organizadas para su continuación indefinida; contienen información de diversos temas ordenados según una estructura determinada.
@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Derecho de Autor. Publicaciones periódicas AAAA
+### Derecho de autor. Publicaciones periódicas AAAA
 
 -   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.csv / derecho-autor-publicaciones-periodicas-AAAA.xls
 
@@ -57,7 +57,7 @@ Recursos disponibles
 
 -   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual
 
-### Derecho de Autor. Publicaciones periódicas - AAAA
+### Derecho de autor. Publicaciones periódicas - AAAA
 
 -   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.zip
 
