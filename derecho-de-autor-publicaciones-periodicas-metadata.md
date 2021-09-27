@@ -37,7 +37,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **registro_numero (string):** número de registro con el que se inscribe la obra
+-   **expediente_numero (string):** número de registro con el que se inscribe la obra
 
 -   **publicacion_fecha (date):** fecha en la que registra la obra
 
