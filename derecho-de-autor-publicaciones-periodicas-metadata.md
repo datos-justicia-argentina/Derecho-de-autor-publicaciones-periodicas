@@ -59,7 +59,7 @@ Recursos disponibles
 
 -   **obra_autor (string):** nombre del titular del derecho de propiedad intelectual
 
--   **renovacion_fecha (date):** fecha en la que renueva la obra (este campo es incorpodado a partir del año 2021)
+-   **renovacion_fecha (date):** fecha en la que renueva la obra (este campo es informado a partir del año 2021)
 
 ### Derecho de autor. Publicaciones periódicas - AAAA
 
