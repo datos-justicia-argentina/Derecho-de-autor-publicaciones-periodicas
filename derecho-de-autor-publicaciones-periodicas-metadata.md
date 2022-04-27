@@ -45,7 +45,7 @@ Recursos disponibles
 
 -   **obra_genero (string):** género al que pertenece la obra. Puede tomar los valores: ARTISTICO, CIENTIFICO, COOPERTIVO, CINEMATOGRAFICO, DIDACTICO, ECONOMIA, EDUCATIVO, INTERES GENERAL, JURIDICO, LITERARIO, MUSICAL, entre otros
 
--   **registro_fecha (date):** fecha en la que registra la obra
+-   **registro_fecha (date):** fecha en la que se registra la obra
 
 -   **obra_titulo (string):** título de la obra
 
