@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 16/05/2019
 
--   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción, publicaciones periódicas
+-   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, reproducción, publicaciones periódicas
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
 
@@ -37,17 +37,19 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **expediente_numero (string):** número de registro con el que se inscribe la obra
+-   **registro_numero (string):** número de registro con el que se inscribe la obra
 
--   **publicacion_fecha (date):** fecha en la que registra la obra
+-   **tramite_tipo (string):** indica el tipo de trámite que se realiza
 
--   **publicacion_renovacion (string):** indica si la obra fue renovada. Las renovaciones se realizan en forma anual
+-   **publicacion_renovacion (string):** indica si la obra fue renovada. Toma los valores Si/No. Las renovaciones se realizan en forma anual
 
 -   **obra_genero (string):** género al que pertenece la obra. Puede tomar los valores: ARTISTICO, CIENTIFICO, COOPERTIVO, CINEMATOGRAFICO, DIDACTICO, ECONOMIA, EDUCATIVO, INTERES GENERAL, JURIDICO, LITERARIO, MUSICAL, entre otros
 
+-   **registro_fecha (date):** fecha en la que registra la obra
+
 -   **obra_titulo (string):** título de la obra
 
--   **titular_persona_tipo (string):** tipo de titular del derecho de propiedad intelectual. Puede tomar los valores:
+-   **persona_tipo (string):** tipo de titular del derecho de propiedad intelectual. Puede tomar los valores:
 
 -   Persona Física
 
@@ -55,7 +57,9 @@ Recursos disponibles
 
 -   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos.
 
--   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual
+-   **obra_autor (string):** nombre del titular del derecho de propiedad intelectual
+
+-   **renovacion_fecha (date):** fecha en la que renueva la obra
 
 ### Derecho de autor. Publicaciones periódicas - AAAA
 
