@@ -27,11 +27,11 @@ Recursos disponibles
 
 ### Derecho de autor. Publicaciones periódicas AAAA
 
--   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.csv / derecho-autor-publicaciones-periodicas-AAAA.xls
+-   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.csv / derecho-autor-publicaciones-periodicas-AAAA.xlsx
 
 -   **Descripción del contenido:** detalle de las publicaciones que se editan en fascículos, numeradas consecutivamente y organizadas para su continuación indefinida; contienen información de diversos temas ordenados según una estructura determinada
 
--   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLSX
 
 -   **Rango temporal:** detalle de las publicaciones periódicas desde agosto de 2018 hasta la fecha consignada como "Datos actualizados al"
 
