@@ -49,6 +49,8 @@ Recursos disponibles
 
 -   **obra_titulo (string):** título de la obra
 
+-   **numero_estandard_internacional (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar http://www.isbn.org.ar
+
 -   **persona_tipo (string):** tipo de titular del derecho de propiedad intelectual. Puede tomar los valores:
 
 -   Persona Física
